@@ -1,0 +1,10 @@
+{
+  "name": "bot-status-ultah",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "node-cron": "latest",
+    "pino": "latest"
+  }
+}
